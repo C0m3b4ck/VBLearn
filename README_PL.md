@@ -1,4 +1,4 @@
-<a href=https://github.com/C0m3b4ck/VBLearn/blob/main/README.md>🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸ENGLISH VERSION🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸</a>
+<a href=https://github.com/C0m3b4ck/VBLearn/blob/main/README.md>🌐🌐🌐🌐🌐ENGLISH VERSION🌐🌐🌐🌐🌐</a>
 <br>![GitHub All Releases](https://img.shields.io/github/downloads/C0m3b4ck/VBLearn/total)
 # VBLearn
 Program do nauczenia się języka Visual Basic 6.0, stworzony w języku Visual Basic 6.0! <br><b>Wspiera od Windows 95 do Windows 11 (Windows 95, Windows 98, Windows NT 4.0 and 4.1+, Windows 2000, Windows ME, Windows XP, Windows Vista, Windows 7, Windows 8 and 8.1, Windows 10, Windows 11)</b>
