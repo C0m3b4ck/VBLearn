@@ -1,4 +1,5 @@
 <a href=https://github.com/C0m3b4ck/VBLearn/blob/main/README_PL.md>🇵🇱🇵🇱🇵🇱🇵🇱🇵🇱POLSKA WERSJA🇵🇱🇵🇱🇵🇱🇵🇱🇵🇱🇵🇱</a>
+<br><b>🇪🇺🇪🇺🇪🇺Made in Europe🇪🇺🇪🇺🇪🇺
 <br>![GitHub All Releases](https://img.shields.io/github/downloads/C0m3b4ck/VBLearn/total)
 # VBLearn
 Program for learning Visual Basic 6.0, in Visual Basic 6.0!
